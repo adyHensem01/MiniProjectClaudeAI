@@ -1,0 +1,162 @@
+[
+  {
+    "code": "TRD-SANDING-300",
+    "name": "Majlis Bersanding Classic",
+    "priceMyr": 28000,
+    "maxGuests": 300,
+    "styles": ["traditional"],
+    "venueType": "indoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Dewan hall rental (1 day)",
+      "Halal buffet for 300",
+      "Pelamin (dais) decoration",
+      "Kompang troupe",
+      "Photographer (6 hours)"
+    ]
+  },
+  {
+    "code": "TRD-ROYAL-800",
+    "name": "Royal Malay Heritage",
+    "priceMyr": 85000,
+    "maxGuests": 800,
+    "styles": ["traditional"],
+    "venueType": "indoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Grand ballroom",
+      "Halal buffet for 800",
+      "Premium pelamin",
+      "Silat & kompang performance",
+      "Photo + video team",
+      "Bridal attire (2 sets)"
+    ]
+  },
+  {
+    "code": "GRD-INTIMATE-80",
+    "name": "Intimate Garden Vows",
+    "priceMyr": 15000,
+    "maxGuests": 80,
+    "styles": ["garden", "rustic"],
+    "venueType": "outdoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Garden venue (half day)",
+      "Halal hi-tea for 80",
+      "Floral arch",
+      "Acoustic duo",
+      "Photographer (4 hours)"
+    ]
+  },
+  {
+    "code": "GRD-BLOOM-200",
+    "name": "Blooming Garden Celebration",
+    "priceMyr": 42000,
+    "maxGuests": 200,
+    "styles": ["garden", "modern"],
+    "venueType": "outdoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Garden venue with rain tent",
+      "Halal western set dinner for 200",
+      "Fresh floral styling",
+      "Live band",
+      "Photo + video team"
+    ]
+  },
+  {
+    "code": "BCH-SUNSET-120",
+    "name": "Langkawi Sunset Beach",
+    "priceMyr": 55000,
+    "maxGuests": 120,
+    "styles": ["beach", "modern"],
+    "venueType": "outdoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Beachfront venue",
+      "Halal seafood dinner for 120",
+      "Sunset ceremony setup",
+      "Fire dance performance",
+      "Drone photography"
+    ]
+  },
+  {
+    "code": "MOD-CITY-250",
+    "name": "Modern City Ballroom",
+    "priceMyr": 48000,
+    "maxGuests": 250,
+    "styles": ["modern"],
+    "venueType": "indoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Hotel ballroom",
+      "Halal 8-course Chinese banquet for 250",
+      "LED stage backdrop",
+      "DJ & emcee",
+      "Photographer (8 hours)"
+    ]
+  },
+  {
+    "code": "MOD-BANQUET-500",
+    "name": "Grand Banquet Experience",
+    "priceMyr": 95000,
+    "maxGuests": 500,
+    "styles": ["modern", "traditional"],
+    "venueType": "indoor",
+    "halalCatering": false,
+    "inclusions": [
+      "Hotel grand ballroom",
+      "10-course banquet for 500",
+      "Champagne tower",
+      "Live band & emcee",
+      "Photo + video + same-day edit"
+    ]
+  },
+  {
+    "code": "RST-BARN-150",
+    "name": "Rustic Countryside Barn",
+    "priceMyr": 32000,
+    "maxGuests": 150,
+    "styles": ["rustic", "garden"],
+    "venueType": "either",
+    "halalCatering": false,
+    "inclusions": [
+      "Barn venue with lawn",
+      "BBQ buffet for 150",
+      "Fairy-light styling",
+      "Folk band",
+      "Photographer (6 hours)"
+    ]
+  },
+  {
+    "code": "BCH-ISLAND-60",
+    "name": "Island Barefoot Elopement",
+    "priceMyr": 12000,
+    "maxGuests": 60,
+    "styles": ["beach", "rustic"],
+    "venueType": "outdoor",
+    "halalCatering": true,
+    "inclusions": [
+      "Private beach spot (3 hours)",
+      "Halal BBQ dinner for 60",
+      "Bamboo arch with fresh flowers",
+      "Photographer (3 hours)"
+    ]
+  },
+  {
+    "code": "MOD-ROOFTOP-100",
+    "name": "Skyline Rooftop Soiree",
+    "priceMyr": 36000,
+    "maxGuests": 100,
+    "styles": ["modern"],
+    "venueType": "outdoor",
+    "halalCatering": true,
+    "inclusions": [
+      "KL rooftop venue (evening)",
+      "Halal canapes & set dinner for 100",
+      "Minimalist floral styling",
+      "Jazz trio",
+      "Photo + video team"
+    ]
+  }
+]
